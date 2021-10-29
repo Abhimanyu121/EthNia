@@ -24,9 +24,9 @@ The contract is deployed on Matic 0x3c523E5c0Bde9353084B191036488Df912Cb82cC
 ## Infura Email Used
 EMail :- manank321@gmail.com
 
-Also used the IPFS API for the images uploading to IPFS Network.
+Also used in the IPFS API for the images uploading to IPFS Network.
 
 ![image](https://github.com/Man-Jain/EthNia/blob/master/stats.png)
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
