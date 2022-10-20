@@ -16,7 +16,7 @@ module.exports = {
       provider: function () {
         return new HDWalletProvider(
           data,
-          "https://ropsten.infura.io/v3/46770654a6f6479489228ef81a5b797a"
+          "https://sepolia.infura.io/v3/46770654a6f6479489228ef81a5b797a"
         );
       },
       network_id: 3,
